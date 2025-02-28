@@ -1,0 +1,9 @@
+- title: VK
+  url: https://vk.com/a_korostelin/
+  icon: fab fa-vk
+- title: LinkedIn
+  url: https://www.linkedin.com/in/akorostelin/
+  icon: fab fa-linkedin
+- title: GitHub
+  url: https://github.com/flexits
+  icon: fab fa-github
