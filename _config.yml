@@ -1,9 +1,10 @@
 title: flexits personal page
-description: A portfolio page describing projects and achievements
+description: A portfolio page describing my projects and achievements
 author: Alexander Korostelin
-avatar: /logo.jpeg
+avatar: /assets/logo.jpeg
 #email: 4d.41.49.4c@gmail.com
 location: West Siberia
+university: Siberian State University of Telecommunications and Informatics
 
 subscribe: false
 
@@ -15,17 +16,12 @@ plugins:
 
 paginate: 10
 
-collections:
-  publications:
-    output: true
-    permalink: /publications/:path/
-
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
-# 
-# google_analytics: 
+#
+# google_analytics:
 
 # Uncomment the below lines and set the Disqus shortname for enabling Disqus
-# 
+#
 # disqus:
 
 # Jekyll
@@ -34,4 +30,3 @@ exclude:
   - scripts/
   - README.md
   - jekyll-theme-hamilton.gemspec
-
