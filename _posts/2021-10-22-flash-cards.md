@@ -17,7 +17,7 @@ A simple application designed to assist with memorizing foreign words. It’s ba
 
 This is a Windows Forms app, but it's styled in a slightly fancier way. Inheritance is used extensively to prevent code duplication in the forms and custom controls.
 
-Localization strings are stored in resources and accessed via ResourceManager. The cards are stored in an SQLite database that is object-mapped by Dapper. Import/export is done through plain text JSON files with a custom extension. The color palette was chosen with help of [Coolors](https://coolors.co/).
+Localization strings are stored in resources and accessed via ResourceManager. The cards are stored in an SQLite database that is object-mapped by *Dapper*. Import/export is done through plain text JSON files with a custom extension. The color palette was chosen with help of *[Coolors](https://coolors.co/)*.
 
 This is an example of my early coding and contains certain errors in both architecture and implementation, I believe. The project structure itself is messy too (models, database access layer, localization service – everything resides in the root folder).
 
