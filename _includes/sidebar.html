@@ -29,6 +29,12 @@
       <span class="contact-info p-university" style="white-space: normal;">{{ site.university }}</span>
     </li>
     {%- endif %}
+    {% if site.occupation -%}
+    <li>
+      <i class="sidebar-icon fas fa-building"></i>
+      <span class="contact-info p-occupation" style="white-space: normal;">{{ site.occupation }}</span>
+    </li>
+    {%- endif %}
     {% if site.location -%}
     <li>
       <i class="sidebar-icon fas fa-location-arrow"></i>
