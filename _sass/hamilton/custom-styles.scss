@@ -3,3 +3,16 @@
     margin: 1rem 0;
     max-height: 20rem;
 }
+
+ul.sidebar-taxonomies {
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+ul.sidebar-taxonomies li {
+    float: left;
+    margin: 0.2rem 0.2rem;
+    padding: 0.3em 0.5em 0.2em 0.5em;
+}
