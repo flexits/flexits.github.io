@@ -1,5 +1,5 @@
-- title: About me
-  url: /about/
+- title: Portfolio
+  url: /
 #- title: Years
 #  url: /years/
 - title: Categories
@@ -12,3 +12,5 @@
 #      url: /faq/
 #    - title: Docs
 #      url: /docs/
+- title: About me
+  url: /about/
